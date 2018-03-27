@@ -1,4 +1,4 @@
-# ER-DIAGRAM
+# ER-DIAGRAM<br/>
 ER DIAGRAMÖVNINGAR
 Tips:
 1:Om det inte finns någon unik nyckel i en entitetstyp, så kan man skapa ett särskilt unikt identitetsnummer bara för användning i databasen.
